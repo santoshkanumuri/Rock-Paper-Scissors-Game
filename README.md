@@ -2,6 +2,8 @@
 
 This project is a simple implementation of the classic Rock Paper Scissors game, built using HTML, CSS, and JavaScript. It provides a user-friendly interface for playing the game against the computer.
 
+link https://santoshkanumuri.github.io/Rock-Paper-Scissors-Game/rps.html
+
 ## Features
 
 - Player vs. Computer game mode
